@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markruzo
 - 👀 I’m interested in UX/UI/App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
